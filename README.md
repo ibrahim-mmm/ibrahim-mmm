@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning Python<br>🎯 Goals: branching out into other languages <br>🎲 Fun fact: I like shawerma </p>
+<p align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning Python<br>🎯 Goals: Branching out into other languages <br>🎲 Fun fact: I like shawerma </p>
 
 ###
 
