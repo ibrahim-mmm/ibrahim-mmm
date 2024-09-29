@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Ibrahim and I'm a student from Leuven, Belgium </p>
+<p align="left">My name is Ibrahim and I'm a student from Leuven, Belgium. </p>
 
 ###
 
